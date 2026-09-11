@@ -1,6 +1,6 @@
 # ACQUISITOR — Roadmap & Audit
 
-**Canonical Repo:** `JDDavenport/acquisitor` (this one)  
+**Canonical Repo:** `jddavenportOpen/acquisitor` (this one)  
 **Stack:** Next.js 16 (app router) · Better Auth 1.5 · Supabase (Postgres) · Drizzle ORM · Tailwind + shadcn/ui · Vercel  
 **Audit Date:** 2026-03-17
 
